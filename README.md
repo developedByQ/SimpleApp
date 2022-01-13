@@ -1,4 +1,4 @@
-# SimpleApp
+# SimpleApp - Sorting by Frequency
 An application that sorts by frequency.
 It takes in a sentence, and returns the frequency of each word within the sentence.
 
